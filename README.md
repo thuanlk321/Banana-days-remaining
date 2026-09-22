@@ -115,6 +115,9 @@ Test Loss (MSE)
 Test MAE
 Several sample predictions (Actual vs Predicted)
 
+https://github.com/thuanlk321/Banana-days-remaining/blob/main/Result/result%202.jpg
+https://github.com/thuanlk321/Banana-days-remaining/blob/main/Result/result%201.jpg
+
 
 🛠️ Requirements
 
