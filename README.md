@@ -117,9 +117,10 @@ Several sample predictions (Actual vs Predicted)
 
 
 ## 📸 Demo
-|              Result 1              |              Result 2              |
-| :--------------------------------: | :--------------------------------: |
-| ![Result 1](Result/result%201.jpg) | ![Result 2](Result/result%202.jpg) |****
+
+| Result 1 | Result 2 |
+|:--------:|:--------:|
+| ![Result 1](Result/result%201.jpg) | ![Result 2](Result/result%202.jpg) |
 
 
 🛠️ Requirements
