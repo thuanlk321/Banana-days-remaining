@@ -33,9 +33,9 @@ The system is built with **Transfer Learning** (MobileNetV2) and can run in real
 
 ## 📸 Demo
 
-| Live Webcam | Result Screen |
-|:-----------:|:-------------:|
-| ![Webcam](assets/webcam_demo.gif) | ![Result](assets/result.png) |
+| Result 1 | Result 2 |
+|:--------:|:--------:|
+| ![Result 1](Result/result%201.jpg) | ![Result 2](Result/result%202.jpg) |
 
 **Controls:**
 - `SPACE` → Capture current prediction and show result
@@ -115,12 +115,6 @@ Test Loss (MSE)
 Test MAE
 Several sample predictions (Actual vs Predicted)
 
-
-## 📸 Demo
-
-| Result 1 | Result 2 |
-|:--------:|:--------:|
-| ![Result 1](Result/result%201.jpg) | ![Result 2](Result/result%202.jpg) |
 
 
 🛠️ Requirements
